@@ -1,3 +1,3 @@
-def greeting
-  puts "Hi, Ruby programmer!"
+def greeting_python
+  puts "Hi, Python programmer!"
 end 
